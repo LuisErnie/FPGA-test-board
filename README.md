@@ -1,5 +1,5 @@
 # FPGA-test-board
-FPGA Test Board designed for use with **DE10-NANO** by ![Terasic](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1046) to provide external I/O devices to interface with the FPGA:
+FPGA Test Board designed for use with **DE10-NANO** by ![Terasic](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=167&No=1046&PartNo=1) to provide external I/O devices to interface with the FPGA:
 -40 pin GPIO header split into 5 PMod ports
 -16x2 Character LCD
 -2 UART RS-485 ports
