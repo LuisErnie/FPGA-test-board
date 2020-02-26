@@ -7,3 +7,5 @@ FPGA Test Board designed for use with **DE10-NANO** by ![Terasic](https://www.te
 -8 Optocoupled Outputs
 -8 ADC inputs 12-bit
 -8 DIP switch input
+
+![Board](https://github.com/LuisErnie/FPGA-test-board/blob/master/Top%20View.jpg)
